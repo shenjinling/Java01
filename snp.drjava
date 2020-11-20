@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="cls/" root="" work="nodepad/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="nodepad/view/NotepadMainFrame.java" package="nodepad.view" timestamp="29-Apr-2020 14:16:39">
+        <select from="29716" to="29716"/>
+        <scroll column="27333" row="0"/>
+      </file>
+      <file name="nodepad/util/MQFontChooser.java" package="nodepad.util" timestamp="15-Mar-2020 02:32:36">
+        <select from="29716" to="29716"/>
+        <scroll column="27333" row="0"/>
+      </file>
+      <file name="nodepad/util/SystemParam.java" package="nodepad.util" timestamp="03-Apr-2018 11:34:38">
+        <select from="29716" to="29716"/>
+        <scroll column="27333" row="0"/>
+      </file>
+      <file name="nodepad/util/TestLine.java" package="nodepad.util" timestamp="03-Apr-2018 11:34:38">
+        <select from="29716" to="29716"/>
+        <scroll column="27333" row="0"/>
+      </file>
+      <file name="nodepad/util/Clock.java" package="nodepad.util" timestamp="22-Apr-2020 15:15:47">
+        <select from="29716" to="29716"/>
+        <scroll column="27333" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
